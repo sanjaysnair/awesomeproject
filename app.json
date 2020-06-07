@@ -22,7 +22,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "com.awesomeprojects.awesomefinal"
+    },
+    "android": {
+      "package": "com.awesomeprojects.awesomefinal"
+    },
+    "description": ""
   }
 }
